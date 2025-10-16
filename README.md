@@ -2,7 +2,7 @@
 
 Bu proje, Portekiz'deki iki ortaöğretim okulundan alınan öğrenci verilerini kullanarak, öğrencilerin final notlarını (G3) tahmin etmeyi amaçlayan bir makine öğrenimi çalışmasıdır. Proje, `project.ipynb` adlı Jupyter Notebook dosyasında geliştirilmiştir.
 
-## 📊 Proje Özeti
+##  Proje Özeti
 
 Çalışma, bir veri bilimi projesinin temel adımlarını içermektedir:
 1.  **Veri Yükleme ve Temizleme:** `mat2.csv` veri seti `pandas` kullanılarak yüklendi ve incelendi.
@@ -14,11 +14,11 @@ Bu proje, Portekiz'deki iki ortaöğretim okulundan alınan öğrenci verilerini
     * Karar Ağacı (Decision Tree Regressor)
     * Random Forest (Random Forest Regressor)
 
-## 🏆 Sonuç
+##  Sonuç
 
 Modellerin performansı `R² Score` (R-kare) metriği kullanılarak değerlendirildi. **Random Forest** modeli, **~0.91 R² skoru** ile en yüksek başarıyı göstererek final notlarını tahmin etmede en etkili model olarak belirlendi.
 
-## 🚀 Nasıl Çalıştırılır?
+##  Nasıl Çalıştırılır?
 
 1.  Bu depoyu (repository) klonlayın:
     ```sh
@@ -37,7 +37,7 @@ Modellerin performansı `R² Score` (R-kare) metriği kullanılarak değerlendir
     jupyter notebook project.ipynb
     ```
 
-## 🛠️ Kullanılan Kütüphaneler
+##  Kullanılan Kütüphaneler
 
 * **pandas** (Veri işleme ve CSV okuma)
 * **matplotlib** (Veri görselleştirme)
