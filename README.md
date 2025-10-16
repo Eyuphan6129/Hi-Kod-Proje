@@ -22,7 +22,7 @@ Modellerin performansı `R² Score` (R-kare) metriği kullanılarak değerlendir
 
 1.  Bu depoyu (repository) klonlayın:
     ```sh
-    git clone [https://github.com/Eyuphan6129/H-Kod-Proje.git](https://github.com/Eyuphan6129/H-Kod-Proje.git)
+    git clone [https://github.com/Eyuphan6129/Hi-Kod-Proje.git](https://github.com/Eyuphan6129/Hi-Kod-Proje.git)
     ```
 2.  Proje klasörüne gidin:
     ```sh
