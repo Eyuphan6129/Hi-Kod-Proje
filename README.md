@@ -1,6 +1,6 @@
 # Öğrenci Başarısı Tahmin Projesi (Veri Bilimi)
 
-[cite_start]Bu proje, Portekiz'deki iki ortaöğretim okulundan alınan öğrenci verilerini  kullanarak, öğrencilerin final notlarını (G3) tahmin etmeyi amaçlayan bir makine öğrenimi çalışmasıdır. [cite_start]Proje, `project.ipynb`  adlı Jupyter Notebook dosyasında geliştirilmiştir.
+Bu proje, Portekiz'deki iki ortaöğretim okulundan alınan öğrenci verilerini  kullanarak, öğrencilerin final notlarını (G3) tahmin etmeyi amaçlayan bir makine öğrenimi çalışmasıdır. [cite_start]Proje, `project.ipynb`  adlı Jupyter Notebook dosyasında geliştirilmiştir.
 
 ##  Proje Özeti
 
