@@ -26,7 +26,7 @@ Modellerin performansı `R² Score` (R-kare) metriği kullanılarak değerlendir
     ```
 2.  Proje klasörüne gidin:
     ```sh
-    cd H-Kod-Proje
+    cd Hi-Kod-Proje
     ```
 3.  Gerekli Python kütüphanelerini `requirements.txt` dosyasını kullanarak yükleyin:
     ```sh
